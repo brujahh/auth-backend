@@ -1,4 +1,3 @@
-const bcrypt = require("bcryptjs");
 const http = require('http');
 const app = require('./app');
 
